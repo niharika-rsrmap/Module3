@@ -1,0 +1,21 @@
+{
+  "name": "mern-fullstack-module4-module3-assignm-niharika-rsrmap-22cd6e45-a7bcf62b",
+  "version": "1.0.0",
+  "main": "src/app.ts",
+  "scripts": {
+    "dev": "nodemon --exec ts-node src/app.ts"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^3.0.0",
+    "@types/dotenv": "^8.2.3",
+    "@types/express": "^5.0.3",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "@types/mongoose": "^5.11.97",
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.5.0",
+    "mongoose": "^8.16.0"
+  }
+}
